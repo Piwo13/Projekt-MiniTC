@@ -1,0 +1,20 @@
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\Projekt MiniTC.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\Projekt MiniTC_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\Projekt MiniTC_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\TCPanel.g.cs
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\Projekt MiniTC.exe
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\Projekt MiniTC.pdb
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\bin\Debug\Projekt MiniTC.exe.config
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\bin\Debug\Projekt MiniTC.exe
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\bin\Debug\Projekt MiniTC.pdb
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\bin\Debug\pl-PL\Projekt MiniTC.resources.dll
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\TCPanel.baml
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\Projekt MiniTC.g.resources
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\Projekt_MiniTC.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\Projekt_MiniTC.Properties.Resources.pl-PL.resources
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\Projekt MiniTC.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\pl-PL\Projekt MiniTC.resources.dll
+C:\Users\Lenovo\source\repos\Projekt MiniTC\Projekt MiniTC\obj\Debug\GeneratedInternalTypeHelper.g.cs
