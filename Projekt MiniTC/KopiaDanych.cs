@@ -15,7 +15,7 @@ namespace Projekt_MiniTC
 
             while (File.Exists(path))
             {
-                path = Do.FullName + "\\" + Do.Name.Replace(Od.Extension, $"({i}){Od.Extension}");
+                path = Do.FullName + "\\" + Od.Name.Replace(Od.Extension, $"({i}){Od.Extension}");
                 i++;
             }
 
